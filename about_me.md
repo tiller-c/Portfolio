@@ -18,7 +18,7 @@ Hi, I'm Tyler Craig, a Philosophy graduate from the University of Illinois Urban
 
 ## Professional Statement
 
-I’m a Philosophy graduate with a focus on AI ethics and cybersecurity, committed to protecting individual rights and promoting ethical technology development. I bring strong communication, research, and data skills to support organizations in navigating complex security challenges, especially those involving artificial intelligence and digital privacy. With a foundation in both ethical reasoning and technical literacy, I aim to contribute to building secure systems that are effective and ethical.
+I'm a Philosophy graduate with a specialization in AI ethics and cybersecurity, passionate about building responsible and effective technology. I bring a unique blend of ethical reasoning, technical literacy, and strong communication skills to support software development and implementation efforts that align with both user needs and long-term impact. With experience in data analysis, system design, and stakeholder collaboration, I'm eager to contribute to projects that require both technical insight and thoughtful execution—helping organizations deliver scalable, secure, and human-centered solutions.
 
 ---
 
