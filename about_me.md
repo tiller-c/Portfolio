@@ -37,17 +37,6 @@ Here are a few things I’ve worked on:
   _Developed an end-to-end data science pipeline in Python to predict red wine quality, leveraging libraries such as scikit-learn, pandas, and matplotlib for data preprocessing, feature engineering, and exploratory data analysis._ 
 ---
 
-## 🌱 Currently Learning
-
-- Linux, Python, SQL
-- Google Cybersecurity Certificate, CompTIA A+, CompTIA Security+
-- Reading:
-  - The Alignment Problem by Brian Christian
-  - The Age of Surveillance Capitalism by Shoshana Zuboff
-  - Hacking APIs by Corey Ball
-
----
-
 ## 📬 Let's Connect
 
 - 📫 Email: tylercraigxc@gmail.com
